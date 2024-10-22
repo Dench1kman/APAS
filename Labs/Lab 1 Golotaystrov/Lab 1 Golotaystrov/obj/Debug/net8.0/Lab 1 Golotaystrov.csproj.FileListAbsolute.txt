@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\bin\Debug\net8.0\Lab 1 Golotaystrov.exe
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\bin\Debug\net8.0\Lab 1 Golotaystrov.deps.json
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\bin\Debug\net8.0\Lab 1 Golotaystrov.runtimeconfig.json
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\bin\Debug\net8.0\Lab 1 Golotaystrov.dll
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\bin\Debug\net8.0\Lab 1 Golotaystrov.pdb
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\obj\Debug\net8.0\Lab 1 Golotaystrov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\obj\Debug\net8.0\Lab 1 Golotaystrov.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\obj\Debug\net8.0\Lab 1 Golotaystrov.AssemblyInfo.cs
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\obj\Debug\net8.0\Lab 1 Golotaystrov.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\obj\Debug\net8.0\Lab 1 Golotaystrov.dll
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\obj\Debug\net8.0\refint\Lab 1 Golotaystrov.dll
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\obj\Debug\net8.0\Lab 1 Golotaystrov.pdb
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\obj\Debug\net8.0\Lab 1 Golotaystrov.genruntimeconfig.cache
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 1\Lab 1 Golotaystrov\Lab 1 Golotaystrov\obj\Debug\net8.0\ref\Lab 1 Golotaystrov.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|c:\\users\\denis\\desktop\\5 \u043A\u0443\u0440\u0441\\\u043F\u043F\u0441\u0430\\lab 3\\lab_3_golotaystrov\\lab_3_golotaystrov\\systems\\airqualitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|solutionrelative:lab_3_golotaystrov\\systems\\airqualitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|c:\\users\\denis\\desktop\\5 \u043A\u0443\u0440\u0441\\\u043F\u043F\u0441\u0430\\lab 3\\lab_3_golotaystrov\\lab_3_golotaystrov\\systems\\securitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|solutionrelative:lab_3_golotaystrov\\systems\\securitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|c:\\users\\denis\\desktop\\5 \u043A\u0443\u0440\u0441\\\u043F\u043F\u0441\u0430\\lab 3\\lab_3_golotaystrov\\lab_3_golotaystrov\\systems\\lightingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|solutionrelative:lab_3_golotaystrov\\systems\\lightingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|c:\\users\\denis\\desktop\\5 \u043A\u0443\u0440\u0441\\\u043F\u043F\u0441\u0430\\lab 3\\lab_3_golotaystrov\\lab_3_golotaystrov\\systems\\hvacsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|solutionrelative:lab_3_golotaystrov\\systems\\hvacsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|c:\\users\\denis\\desktop\\5 \u043A\u0443\u0440\u0441\\\u043F\u043F\u0441\u0430\\lab 3\\lab_3_golotaystrov\\lab_3_golotaystrov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A46FCE8-1CEC-418D-A644-80E839C4E756}|Lab_3_Golotaystrov\\Lab_3_Golotaystrov.csproj|solutionrelative:lab_3_golotaystrov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirQualitySystem.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Systems\\AirQualitySystem.cs",
+              "RelativeDocumentMoniker": "Lab_3_Golotaystrov\\Systems\\AirQualitySystem.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Systems\\AirQualitySystem.cs",
+              "RelativeToolTip": "Lab_3_Golotaystrov\\Systems\\AirQualitySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:52:54.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecuritySystem.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Systems\\SecuritySystem.cs",
+              "RelativeDocumentMoniker": "Lab_3_Golotaystrov\\Systems\\SecuritySystem.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Systems\\SecuritySystem.cs",
+              "RelativeToolTip": "Lab_3_Golotaystrov\\Systems\\SecuritySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:51:33.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Systems\\LightingSystem.cs",
+              "RelativeDocumentMoniker": "Lab_3_Golotaystrov\\Systems\\LightingSystem.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Systems\\LightingSystem.cs",
+              "RelativeToolTip": "Lab_3_Golotaystrov\\Systems\\LightingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:49:33.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HVACSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Systems\\HVACSystem.cs",
+              "RelativeDocumentMoniker": "Lab_3_Golotaystrov\\Systems\\HVACSystem.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Systems\\HVACSystem.cs",
+              "RelativeToolTip": "Lab_3_Golotaystrov\\Systems\\HVACSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:46:08.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_3_Golotaystrov\\Program.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\5 \u043A\u0443\u0440\u0441\\\u041F\u041F\u0421\u0410\\Lab 3\\Lab_3_Golotaystrov\\Lab_3_Golotaystrov\\Program.cs",
+              "RelativeToolTip": "Lab_3_Golotaystrov\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:42:00.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

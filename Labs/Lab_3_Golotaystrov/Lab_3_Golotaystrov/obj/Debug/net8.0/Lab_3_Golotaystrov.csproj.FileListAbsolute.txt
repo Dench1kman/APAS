@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\bin\Debug\net8.0\Lab_3_Golotaystrov.exe
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\bin\Debug\net8.0\Lab_3_Golotaystrov.deps.json
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\bin\Debug\net8.0\Lab_3_Golotaystrov.runtimeconfig.json
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\bin\Debug\net8.0\Lab_3_Golotaystrov.dll
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\bin\Debug\net8.0\Lab_3_Golotaystrov.pdb
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\obj\Debug\net8.0\Lab_3_Golotaystrov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\obj\Debug\net8.0\Lab_3_Golotaystrov.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\obj\Debug\net8.0\Lab_3_Golotaystrov.AssemblyInfo.cs
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\obj\Debug\net8.0\Lab_3_Golotaystrov.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\obj\Debug\net8.0\Lab_3_Golotaystrov.dll
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\obj\Debug\net8.0\refint\Lab_3_Golotaystrov.dll
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\obj\Debug\net8.0\Lab_3_Golotaystrov.pdb
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\obj\Debug\net8.0\Lab_3_Golotaystrov.genruntimeconfig.cache
+C:\Users\Denis\Desktop\5 курс\ППСА\Lab 3\Lab_3_Golotaystrov\Lab_3_Golotaystrov\obj\Debug\net8.0\ref\Lab_3_Golotaystrov.dll
