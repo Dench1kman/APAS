@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\bin\Debug\net8.0\Lab_4_Golotaystrov.exe
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\bin\Debug\net8.0\Lab_4_Golotaystrov.deps.json
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\bin\Debug\net8.0\Lab_4_Golotaystrov.runtimeconfig.json
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\bin\Debug\net8.0\Lab_4_Golotaystrov.dll
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\bin\Debug\net8.0\Lab_4_Golotaystrov.pdb
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\Lab_4_Golotaystrov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\Lab_4_Golotaystrov.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\Lab_4_Golotaystrov.AssemblyInfo.cs
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\Lab_4_Golotaystrov.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\Lab_4_Golotaystrov.sourcelink.json
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\Lab_4_Golotaystrov.dll
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\refint\Lab_4_Golotaystrov.dll
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\Lab_4_Golotaystrov.pdb
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\Lab_4_Golotaystrov.genruntimeconfig.cache
+C:\Users\Denis\Desktop\APAS\Labs\Lab_4_Golotaystrov\Lab_4_Golotaystrov\obj\Debug\net8.0\ref\Lab_4_Golotaystrov.dll
